@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: mehrSchalke
-image: /img/71471039_2404405209613210_7524870693586993152_n.jpg
+image: /img/seit1904.jpg
 heading: MEHR Schalke
 subheading: Weil mehr Schalke immer besser ist.
 mainpitch:
